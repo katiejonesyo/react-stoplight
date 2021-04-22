@@ -3,6 +3,10 @@
   text-align: center;
 }
 
+html {
+  background-color: rgb(131, 205, 255);
+}
+
 #root {
   position: absolute;
   display: block;
@@ -10,8 +14,7 @@
   top: 50%;
   margin-left: -60px;
   margin-top: -160px;
-  background-color: #333;
-  width: 120px;
-  height: 320px;
-  border-radius: 30px;
+  background-color: rgb(0, 0, 0);
+  width: 140px;
+  height: 330px;
 }
